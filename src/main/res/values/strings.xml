@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Regapp4</string>
+    <string name="signup_btn">signup</string>
+    <string name="login_btn">login</string>
+    <string name="update_pass">update_pass</string>
+    <string name="logout">logout</string>
+    <string name="email_hint">emailhint</string>
+    <string name="password_hint">passwordhint</string>
+    <string name="password">password</string>
+    <string name="you_have_logged_in">YOU HAVE LOGGED IN!!</string>
+    <string name="galaxies">galaxies</string>
+</resources>
